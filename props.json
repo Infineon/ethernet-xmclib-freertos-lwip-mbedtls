@@ -1,0 +1,7 @@
+{
+    "configurator_support": true,
+    "core": {
+        "id": "6a107508-3b91-4c34-a834-5f502203709f",
+        "name": "ethernet-xmclib-freertos-lwip-mbedtls"
+    }
+}
